@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[HeadSpace]]></title>
         <description><![CDATA[HeadSpace]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/headspace/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 22:27:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 12 Feb 2016 22:35:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/headspace/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Spirits of the West]]></title>
-            <description><![CDATA[<article><h1>Spirits of the West</h1><p>Spirits of the West 'Saddle Bench'</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a105a2b5ff003f10fc50a4b8e56918f1640e6fa7.jpg"></article>]]></description>
-            <link>undefineda4cf5ff5-c31a-4e95-8064-3aa42d6e3f96/index.html</link>
+            <title><![CDATA['The Butler']]></title>
+            <description><![CDATA[<article><h1>'The Butler'</h1><p>Spirits of the West 'Saddle Bench'</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/63114b2bf66afe14947c60f8ec259cfb5c96d0c0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/headspace/a4cf5ff5-c31a-4e95-8064-3aa42d6e3f96/index.html</link>
             <guid isPermaLink="false">a4cf5ff5-c31a-4e95-8064-3aa42d6e3f96</guid>
-            <pubDate>Fri, 12 Feb 2016 22:27:35 GMT</pubDate>
+            <pubDate>Fri, 12 Feb 2016 22:35:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
